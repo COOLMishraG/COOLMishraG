@@ -89,6 +89,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/COOLMishraG/COOLMishraG/output/snake.svg" alt="Snake animation" />
 
 ###
